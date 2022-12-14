@@ -23,6 +23,14 @@ body {
     background-size: cover;
 }
 
+#membership {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/group-of-people.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
 /* h2 elements */
 
 h2 {
