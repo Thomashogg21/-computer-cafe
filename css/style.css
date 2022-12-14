@@ -31,12 +31,27 @@ body {
     background-size: cover;
 }
 
+#coffee-menu {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/coffee.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
 /* h2 elements */
 
 h2 {
     text-align: center;
     display: block;
     position: relative;
+}
+
+p {
+    text-align: center;
+    display: block;
+    color: #fff;
+    background-color: orange;
 }
 
 #menu {
@@ -50,3 +65,15 @@ h2 {
     margin-left: 40px;
 }
 
+form {
+
+}
+
+footer > p {
+    text-align: center;
+    background-color: gray;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
