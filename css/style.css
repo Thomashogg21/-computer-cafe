@@ -1,0 +1,44 @@
+title {
+    text-align: center;
+}
+
+body {
+    font-family: Lato, sans-serif ;
+    font-weight: 200;
+} 
+
+#main-background {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/main-background.webp');
+    background-position: center;
+    background-size: cover;
+}
+
+#food-menu {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/food-menu.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+/* h2 elements */
+
+h2 {
+    text-align: center;
+    display: block;
+    position: relative;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-left: 40px;
+}
+
